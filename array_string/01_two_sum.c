@@ -1,4 +1,4 @@
-#include <stdlib.h>
+cd array_string1#include <stdlib.h>
 #include <stdio.h>
 
 int* twoSum(int* nums, int numsSize, int target, int* returnSize) {
