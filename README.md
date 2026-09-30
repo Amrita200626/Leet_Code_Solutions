@@ -4,26 +4,49 @@ This repository contains my LeetCode solutions completed as part of my CSE cours
 
 ## Language
 
-- C
+* C
 
-## Problems
+## Tools Used
 
-| No. | Problem | LeetCode |
-|---|---|---|
-| 1 | Two Sum | #1 |
-| 2 | Reverse String | #344 |
-| 3 | Valid Anagram | #242 |
-| 4 | Best Time to Buy and Sell Stock | #121 |
-| 5 | Longest Common Prefix | #14 |
-| 6 | Binary Search | #704 |
-| 7 | Move Zeroes | #283 |
-| 8 | Valid Parentheses | #20 |
-| 9 | Reverse Linked List | #206 - Bonus |
+* VS Code
+* GCC Compiler
+* LeetCode
+* Git and GitHub
+
+## Problems Completed
+
+| No. | Problem                         | LeetCode | Topic           | Difficulty | Status    |
+| --- | ------------------------------- | -------- | --------------- | ---------- | --------- |
+| 1   | Two Sum                         | #1       | Array           | Easy       | Completed |
+| 2   | Reverse String                  | #344     | String          | Easy       | Completed |
+| 3   | Valid Anagram                   | #242     | String          | Easy       | Completed |
+| 4   | Best Time to Buy and Sell Stock | #121     | Array           | Easy       | Completed |
+| 5   | Longest Common Prefix           | #14      | String          | Easy       | Completed |
+| 6   | Binary Search                   | #704     | Basic Algorithm | Easy       | Completed |
+| 7   | Move Zeroes                     | #283     | Array           | Easy       | Completed |
+| 8   | Valid Parentheses               | #20      | Stack           | Easy       | Completed |
+| 9   | Reverse Linked List             | #206     | Linked List     | Easy       | Completed |
 
 ## Testing
 
-Each solution is tested locally in VS Code using GCC before submission to LeetCode.
+All programs were written and tested locally in VS Code using the GCC compiler.
+
+Each program includes at least two test cases.
+
+## Repository Structure
+
+```text
+leetcode-solutions/
+├── README.md
+├── PROGRESS.md
+├── array_string/
+├── basic_algorithm/
+├── stacks/
+└── linked_list/
+```
 
 ## Progress
 
-Problems, test results, documentation, and LeetCode submissions will be updated as the activity progresses.
+All required LeetCode problems have been completed and tested locally.
+
+The progress tracker is available in `PROGRESS.md`.
